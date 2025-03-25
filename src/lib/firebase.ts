@@ -6,13 +6,13 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBdummyapikey12345678910",
-  authDomain: "codashop-clone.firebaseapp.com",
-  projectId: "codashop-clone",
-  storageBucket: "codashop-clone.appspot.com",
-  messagingSenderId: "123456789012",
-  appId: "1:123456789012:web:1234567890abcdef1234",
-  measurementId: "G-ABCDEFGHIJ"
+  apiKey: "AIzaSyCqPkyau7rBKgJKcbx0kgrc8UKN8tWgBHY",
+  authDomain: "codad-359a2.firebaseapp.com",
+  projectId: "codad-359a2",
+  storageBucket: "codad-359a2.firebasestorage.app",
+  messagingSenderId: "85890035196",
+  appId: "1:85890035196:web:b602ed4f41b841ec76d679",
+  measurementId: "G-737T5F7ZPY"
 };
 
 // Initialize Firebase
